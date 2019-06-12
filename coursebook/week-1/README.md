@@ -19,14 +19,17 @@
 
 ## Day 2
 
+- 8:30 - 9:15 — Command Line
 
-- 08:30 - 10:30 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 
-- 10:30 - 11:00 — Command Line
+- 09:15 - 11:10 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 
-- 11:00 - 12:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
 
-- 12:00 - 12:30 — Introduce [Project](./project.md)
+- 11:10 - 11:20  -- Coffee / Tea Break
+
+- 11:20 - 12:20 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
+
+- 12:20 - 12:30 — Introduce [Project](./project.md)
 
 — LUNCH —
 
