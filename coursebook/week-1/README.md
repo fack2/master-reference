@@ -9,7 +9,7 @@
 
 ## Day 1
 
-- 10.00 - 12.30 — Welcome talk and Name Game
+- 08:30 - 12.30 — Welcome talk and Name Game
 
 
 — LUNCH —
@@ -57,7 +57,7 @@
 ## Day 5
 
 - 08:30 - 08:45 - How to Code review [here](./codereviewintro.md)
-- 08:45 - 10:00 — Code review 
+- 08:45 - 10:00 — Code review
 - 10.00 - 12:30 — Respond to issues and [plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
 
 — LUNCH —
