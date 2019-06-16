@@ -27,7 +27,7 @@
 
 - 11:10 - 11:20  -- Coffee / Tea Break
 
-- 11:20 - 12:20 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
+- 11:20 - 12:20 — [Accessibility Workshop](https://github.com/fack2/master-reference/blob/master/coursebook/week-1/accessibility-workshop-khaleel.md)
 
 - 12:20 - 12:30 — Introduce [Project](./project.md)
 
