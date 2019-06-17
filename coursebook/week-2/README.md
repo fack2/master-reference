@@ -32,7 +32,7 @@
 
 - 11:30-11:40 - break
 
-- 11:40 - 11:50 - Introduce   [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
+- 11:40 - 11:50 - Introduce   [Research](https://github.com/fack2/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
 - 11:50 - 12:00 - [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 - 12:00 - 12:30 - [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
