@@ -11,85 +11,69 @@
 
 ### Day 1
 
-- 10:00 - 10:30 <br>
-  [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+- 8:30 - 9:00 - [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 
-- 10:30 - 11:00 <br>
-  [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
-
-- 11:00 - 13:00 <br>
-  [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape)
+- 9:30 - 10:00 - [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
+- 10:00 - 10: 10 - break
+- 10:10 - 12:30 - [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape)
 
 — LUNCH —
 
-- 14:00 - 16:00 <br>
-  Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
+- 13:30 - 15:30 - Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
 
-- 16:00 - 18:00 <br>
-  Business development / community engagement
+- 15:30 - 16:30 - [Typing practice](https://www.typingclub.com/)
+  
 
 ### Day 2
 
-- 10:00 - 11:00 <br>
-  Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
+- 08:30 - 09:30 - callback workshop
 
-- 11:00 - 13:00 <br>
-  [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
+- 09:30 - 11:30 - [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
+
+- 11:30-11:40 - break
+
+- 11:40 - 11:50 - Introduce   [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
+
+- 11:50 - 12:00 - [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
+- 12:00 - 12:30 - [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
 
 — LUNCH —
+- 13:30 - 15:30 - [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
-- 14.00 - 14.30
-  [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
+- 15:30 - 16:30 - Review and Present research topics
 
-- 14.30 - 16:30 <br>
-  [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
-
-- 16:30 - 17:30 <br>
-  Review and Present research topics
-
-- 17:30 - 18:00 <br>
-  [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
-
+  
 ### Day 3
 
-- 10:00 - 11:00 <br>
-  Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
+- 08:30 - 09:30 - Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
 
-- 11:00 - 13:00 <br>
-  Start projects
+- 09:30 - 12:30 - Start projects
 
 — LUNCH —
 
-- 14:00 - 17:00<br>
-  Projects
+- 13:30 - 16:30 - Projects
 
-- 17:00 - 18:00<br>
-  External speaker
 
 ### Day 4
 
-- 10:00 - 13:00 <br>
-  Projects
+- 08:30 - 12:30 - Projects
 
 — LUNCH —
 
-- 14:00 - 18:00
-  Projects
+- 13:30 - 16:30 - Projects
 
 ### Day 5
 
-- 10:00 - 11:00 <br>
-  [Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-review.md)
+- 08:30 - 09:30  [Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-review.md)
 
-- 11:00 - 13:00 <br>
-  Respond to issues and plan presentations
+- 09:30 - 11:30 - Respond to issues and plan presentations
+
+- 11:00 -12:30 - Presentations (20 mins per group)
 
 — LUNCH —
 
-- 14:00-15:20 — Presentations (20 mins per group)
+- 13:30 - 14:30 — Cohort Stop Go Continue (retrospective)
 
-- 15:20-16:20 — Cohort Stop Go Continue (retrospective)
+- 14:30 - 15:00 — Team retrospectives
 
-- 16:20-17:00 — Team retrospectives
-
-- 17:00-18:00 — External Speaker or Alumni Project Presentation
+- 15:00 - 16:30 — External Speaker or Alumni Project Presentation
