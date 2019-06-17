@@ -6,7 +6,8 @@ This only works as long as the sites that they want to access are designed to pe
 
 When building websites, we must be careful not to assume that everyone using it is abled bodied. your users may not be able to use a mouse, or may be visually impared. 
 
-https://www.youtube.com/watch?v=3f31oufqFSM
+video on screen readers:
+https://www.youtube.com/watch?v=dEbl5jvLKGQ
 
 ### Exercises
 
