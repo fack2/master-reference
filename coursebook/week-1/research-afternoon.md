@@ -9,16 +9,25 @@
 
 ## **Regular Expressions**
 
-- How to use regex
-    - (basic) pattern creation and repetitions
-    - (advanced) groups
-- Find and use on-line tools such as [regex101](https://regex101.com/)
-- Create a code snippet using regex such as (for example) email validator:
-  [us3r1@foundersandcoders.com](mailto:us3r1@foundersandcoders.com)
-    - user must start with an alphabetical character;
-    - user can contain also other characters (which ones?);
-    - site and user are always separated by a snail/small duck/AT symbol (@);
-    - site is always done with at least 3 alphabetical characters, a dot and at least 2 more alphabetical characters
+1. What is regex and what is it used for?
+2. How do you use [regex101](https://regex101.com/)?
+3. Using [regex101](https://regex101.com/) write regex that validates an email address. 
+
+It would accept:
+```
+- 'myname_123@gmail.com'
+- 'myname@gmail.co.uk'
+```
+
+It wouldnt accept:
+```
+- '@gmail.com'
+- 'myname@'
+- 'myname@gmail.com.com'
+- ';myname@gmail.com'
+```
+
+4. Use the regex you have written to write a function that takes a string and returns true or false depending on whether or not the string is a vaid email address. 
 
 ## **Accessibility**
 
