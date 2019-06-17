@@ -1,6 +1,6 @@
 # Research Afternoon
 
-## **Command Line**
+## Your IDE (interactive development environment)
 
 - Customise your command line to include git branch name and status. 
     -    Create a "workshop" to walk the rest of your cohort through this.
