@@ -12,12 +12,9 @@ When building websites, we must be careful not to assume that everyone using it 
 
 1. Navigate to [visitpalestine.ps](http://visitpalestine.ps/) . Try accessing the website using only your keyboard. Find the number for the H2 hostel in Hebron without using your mouse (menu -> where to go -> hebron -> hotels -> H2 hostel)
 
-2. Download the [HTML 5 outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en) chrome extension. Then go back to the website and click on the new icon in your toolbar.
-![](./images/extensions.png)
-  + Is the content semantic?
-  + Screen reader users navigate the page based on the order of the elements in the DOM. Does the order look sensible?
 
-3. Put in your earphones. Then download the [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) chrome extension. 
+
+2. Put in your earphones. Then download the [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) chrome extension. 
   + Go to any website of your choice and try navigating around, using only your keyboard, until you feel comfortable with the functionality of ChromeVox.
   To learn the necessary keyboard shortcuts, find ChromVox in your extensions and click on "Options"  
   ![](./images/chromevox-options.png)
@@ -26,7 +23,7 @@ When building websites, we must be careful not to assume that everyone using it 
   Note: You can disable the voice by clicking `Ctrl`, or disable ChromeVox altogether with `ctrl`+`alt`+`z` (or going to Settings -> Extensions, find ChromeVox and tick the "disable" checkbox).  
 
 
-4. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)  
+3. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)  
   + Run an audit on [visitpalestine.ps](http://visitpalestine.ps/):  
     1. Open dev tools (as normal)  
     2. Click on the new "Audits" tab
