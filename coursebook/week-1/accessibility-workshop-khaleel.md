@@ -22,16 +22,24 @@ Note: You can disable the voice by clicking `Ctrl`, or disable ChromeVox altoget
 
 3. Download the [HTML 5 outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en) chrome extension. Then go back to [gov.uk](https://www.gov.uk/) and click on the new icon in your toolbar. This is an example of a semantic layout. look up what semantic html is and why it is useful. 
 
+https://files.gitter.im/jema28/ArPW/extensions.png
+
 4. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en). Run an audit on [visitpalestine.ps](http://visitpalestine.ps/):  
     1. Open dev tools (as normal)  
     2. Click on the new "Audits" tab
     3. Click Perform an audit
+    
+    https://files.gitter.im/jema28/ArPW/dev-tools-audit.png
+    
     4. Check the "Accessibility" box
     5. Click Run audit
+    
+    https://files.gitter.im/jema28/ArPW/dev-tools-audit2.png
 
   + Use the clickable links to find out what the problems are and what can be done about them, and view failing elements to know where there problems are in the code.
+  
+  https://files.gitter.im/jema28/ArPW/failing-elements.png
+  
   + do some research into why each one is a problem. 
-
-
 
 [More tools that can help](./tools-that-can-help.md)
