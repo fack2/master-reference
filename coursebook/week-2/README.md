@@ -11,7 +11,7 @@
 
 ### Day 1
 
-- 8:30 - 9:00 - [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+- 8:30 - 9:00 - [Intro to NPM](https://github.com/fack2/master-reference/blob/master/coursebook/week-2/intro-to-npm.md)
 
 - 9:30 - 10:00 - [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 - 10:00 - 10: 10 - break
