@@ -15,7 +15,7 @@
 
 - 9:30 - 10:00 - [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 - 10:00 - 10: 10 - break
-- 10:10 - 12:30 - [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape)
+- 10:10 - 12:30 - [Tape (TDD) workshop](https://github.com/jema28/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape)
 
 — LUNCH —
 
