@@ -13,7 +13,7 @@
 
 - 8:30 - 9:00 - [Intro to NPM](https://github.com/fack2/master-reference/blob/master/coursebook/week-2/intro-to-npm.md)
 
-- 9:30 - 10:00 - [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
+- 9:30 - 10:00 - [Introduction to testing and TDD](https://github.com/jema28/testing-tdd-intro/blob/master/README.md)
 - 10:00 - 10: 10 - break
 - 10:10 - 12:30 - [Tape (TDD) workshop](https://github.com/jema28/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape)
 
