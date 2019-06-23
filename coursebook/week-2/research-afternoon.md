@@ -1,10 +1,14 @@
 ## Research topics
 
-### Unit vs integration testing
+### Testing
 
+- What is test driven development and why it is useful?
 - What is a unit test?
-- What is an integration test?
-- When would you use each kind of test?
+- What are automated tests?
+- What are some popular testing frameworks?
+- How and why are they different?
+- What are some common testing methods - e.g. `test.equal`, `test.ok`
+- What is the difference between equal and deepEqual?
 
 ### Test coverage
 
