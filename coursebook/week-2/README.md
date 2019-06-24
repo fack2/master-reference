@@ -26,7 +26,7 @@
 
 ### Day 2
 
-- 08:30 - 09:30 - callback workshop
+- 08:30 - 10:00 - callback workshop
 
 - 09:30 - 11:30 - [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
