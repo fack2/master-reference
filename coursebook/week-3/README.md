@@ -16,7 +16,7 @@
 
 -- LUNCH --
 
-- 13:30 - 15:30 Callbacks workshop
+- 13:30 - 15:30 [Callbacks workshop](https://github.com/jema28/ws-callbacks)
 
 - 15:30 - 16.30 Typing
 
