@@ -10,65 +10,57 @@
 
 ### Day 1
 
-- 10.00 - 10.15 <br /> Introduction and learning outcomes with week-3 mentors
+- 08:30 - 10:00 API Introduction
 
-- 10.15 - 12.00 <br /> [Introductory workshop](https://github.com/foundersandcoders/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern
+- 10:00 - 12:30 [Github API workshop](https://github.com/m4v15/ws-github-api)
 
-- 12.00 - 13.00 <br /> [XHR workshop](https://github.com/foundersandcoders/xhr-workshop)
+-- LUNCH --
 
--- LUNCHTIME 😋 --
+- 13:30 - 15:30 Callbacks workshop
 
-- 14.00 - 16.00 <br /> [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests
-
-- 16.00 - 18.00 <br /> Biz Dev / Community Engagement
+- 15:30 - 16.30 Typing
 
 ### Day 2
 
-- 10:00 - 10:45 <br />
-  [Flexbox Froggy](http://flexboxfroggy.com/)
-- 10:45 - 11:45 <br />
-  [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
-- 11.45 - 13.00 <br />
-  [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+- 08:30 - 09:30 [Flexbox Froggy](http://flexboxfroggy.com/)
 
--- LUNCHTIME 😋 --
+- 09:30 - 11:00 [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
 
-- 14.00 - 17.00 <br />
-  [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
+- 11:00 - 12:00 [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
 
-- 17.15 - 18.00 <br />
-  [Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
+- 12:00 - 12:30 Introduce projects(https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md)
+
+-- LUNCH --
+
+- 13.30 - 16.30 [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 
 ### Day 3
 
-- 10.00 - 11.00 <br /> [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
+- 08.30 - 09.30 [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
 
-- 11.00 - 13.00 <br /> Project Planning
+- 09.30 - 12:30 Projects
 
--- LUNCHTIME 😋 --
+-- LUNCH --
 
-- 14.00 - 17.00 <br /> Work on projects
+- 13.30 - 16.30 Projects
 
 ### Day 4
 
-- 10.00 - 13.00 <br /> Projects
+- 08.30 - 12.30 Projects
 
--- LUNCHTIME 😋 --
+-- LUNCH --
 
-- 14.00 - 18.00 <br /> Projects (stop work at 18:00!)
+- 13.30 - 16.30 Projects
 
 ### Day 5
 
-- 10.00 - 11.00 <br /> Project code review
+- 08.30 - 09.30 Code review
 
-- 11.00 - 13.00 <br /> Respond to issues and plan presentations
+- 09.30 - 12.30 Respond to issues and plan presentations
 
--- LUNCHTIME 😋 --
+-- LUNCH --
 
-- 14:00-15:20 — Presentations (20 mins per group)
+- 13:30-  14:30 Presentations
 
-- 15:20-16:20 — Cohort Stop Go Continue (retrospective)
+- 14:30 - 13:30 Stop Go Continue
 
-- 16:20-17:00 — Team retrospectives
-
-- 17:00-18:00 — External Speaker or Alumni Project Presentation
