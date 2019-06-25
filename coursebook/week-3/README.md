@@ -10,7 +10,7 @@
 
 ### Day 1
 
-- 08:30 - 10:00 API Introduction
+- 08:30 - 10:00 [API Introduction](https://github.com/jema28/api-introduction)
 
 - 10:00 - 12:30 [Github API workshop](https://github.com/m4v15/ws-github-api)
 
