@@ -1,6 +1,5 @@
 ## Resources
 
-- XMLHttpRequest - http://www.w3schools.com/xml/xml_http.asp,
 - What is an API? In English, please. - https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.8hjwc8zg1
 - What is an API (Youtube video) - https://www.youtube.com/watch?v=s7wmiS2mSXY
 - Zapier's Introduction to APIs (from the pre-course materials) - https://zapier.com/learn/apis/
