@@ -4,14 +4,13 @@ You should gain an understanding of the following:
 
 ### HTTP
 - What is HTTP?
-- What is an XMLHttpRequest?
+- What is an fetch request?
 - What are HTTP methods and what are the different methods intended for?
 - What is an HTTP status code and what are the most common ones?
 
 ### API
 - What is an API?
-- How do you use an xhr (XMLHttpRequest) to query an API?
-- What is the difference betwee the XHR (XMLHttpRequest) GET and POST methods?
+- How do you use fetch to query an API?
 - What is an API key and why would you want to conceal it?
 - What is JSON? Why is this useful knowledge with regard to APIs?
 
@@ -26,7 +25,6 @@ You should gain an understanding of the following:
 - The concept and importance of software architecture
 - File structure planning and how to white-board plan an app
 - The basic elements of software design in JavaScript, including closures, abstraction, module pattern.
-
 
 ### FRONT-END SKILLS
 - How to apply Flexbox to page content in a responsive design.
