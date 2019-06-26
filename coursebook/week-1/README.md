@@ -19,7 +19,7 @@
 
 ## Day 2
 
-- 8:30 - 9:15 — Command Line
+- 8:30 - 9:15 — [Command Line](https://github.com/jema28/command-line-intro)
 
 
 - 09:15 - 11:10 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
