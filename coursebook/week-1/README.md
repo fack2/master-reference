@@ -14,7 +14,7 @@
 
 — LUNCH —
 
-- 13:30 - 15:30 — Arrays and Objects Workshop
+- 13:30 - 15:30 — [Arrays and Objects Workshop](https://github.com/fack2/master-reference/blob/master/coursebook/week-1/arrays-objects-ws.md)
 - 15:30 - 16:30 — Introduction to consensus based decision-making
 
 ## Day 2
