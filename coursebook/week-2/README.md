@@ -15,10 +15,10 @@
 
 - 9:00 - 9:30 - [Introduction to testing and TDD](https://github.com/jema28/testing-tdd-intro/blob/master/README.md)
 - 09:30 - 11:00 - [Tape (TDD) workshop](https://github.com/jema28/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape)
-- 11:00 - 11:20 - read through (methods section of tape docs)[https://github.com/substack/tape] 
+- 11:00 - 11:20 - read through [methods section of tape docs](https://github.com/substack/tape)
 - 11:20 - 11:30 - break
 - 11:30-12:00 - set up SSH keys with github
-- 12:00-12:30 - (intro to arrow functions and template strings)[https://github.com/fack2/master-reference/blob/master/coursebook/week-2/arrow-funcs-template-strings.md]
+- 12:00-12:30 - [intro to arrow functions and template strings](https://github.com/fack2/master-reference/blob/master/coursebook/week-2/arrow-funcs-template-strings.md)
 — LUNCH —
 
 - 13:30 - 15:30 - Rock Paper Scissors TDD code-along - [notes](https://github.com/fack2/master-reference/blob/master/coursebook/week-2/TDD-codealong.md)
