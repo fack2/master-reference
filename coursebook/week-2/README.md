@@ -19,7 +19,7 @@
 
 — LUNCH —
 
-- 13:30 - 15:30 - Rock Paper Scissors TDD code-along - [notes] (https://github.com/fack2/master-reference/blob/master/coursebook/week-2/TDD-codealong.md)
+- 13:30 - 15:30 - Rock Paper Scissors TDD code-along - [notes](https://github.com/fack2/master-reference/blob/master/coursebook/week-2/TDD-codealong.md)
 
 - 15:30 - 16:30 - [Typing practice](https://www.typingclub.com/)
   
