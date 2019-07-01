@@ -11,68 +11,62 @@
 
 ### Day 1
 
-- 10:00 - 10:15 - Intro to Node week 2
-
-- 10:15 - 13:00 - [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
+- 08:30 - 12:30 - [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
 
 — LUNCH —
 
-- 14:00 - 16:00 - [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop)
+- 13:30 - 16:30 - [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop)
 
-- 16:00 - 18:00 - Business development
 
 ### Day 2
 
-- 10:00 - 13:00 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
+- 08:30 - 11:30 - [module workshop](https://github.com/m4v15/going-on-a-bear-hunt)
+- 11:30 - 12:30 - [typing](https://www.typingclub.com)
 
 — LUNCH —
 
-- 14:00 - 14:30
+- 13:30 - 13:40
   -- [Introduce Project](./project.md)
 
-- 14:30 - 14:45
+- 13:40 - 13:45
   -- Introduce [research topics](./research-afternoon.md)
 
-- 14.45 - 17:00
+- 13.45 - 15:30
   -- [Research Afternoon](./research-afternoon.md)
 
-- 17.00 - 18:00
+- 15:30 - 16:30
   -- Review and Present research topics
 
 ### Day 3
 
-- 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
+- 08:30 - 09:30 - [Node shell workshop - P1](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 
-- 11:00 - 11:15 - [Introduction to linters](./linter.md)
+- 09:30 - 09:45 - [Introduction to linters](./linter.md)
 
-- 11:15 - 13:00 - Projects (planning)
+- 09:45 - 12:30 - Projects (planning)
 
 — LUNCH —
 
-- 14:00 - 17:00 - Projects
+- 13:30 - 16:30 - Projects
 
-- 17:00 - 18:00 — Project Demo from alumni / External speaker
 
 ### Day 4
 
-- 10:00 - 13:00 - Projects
+- 08:30 - 09:00 - Projects
 
 — LUNCH —
 
-- 14:00 - 18:00 - Projects
+- 08:30 - 09:30 - Projects
 
 ### Day 5
 
-- 10:00 - 11:00 - Code review
+- 08:30 - 09:30 - Code review
 
-- 11:00 - 13:00 - Respond to issues and plan presentations
+- 09:30 - 12:30 - Respond to issues and plan presentations
 
 — LUNCH —
 
-- 14:00-15:20 — Presentations (20 mins per group)
+- 13:30 - 14:30 Presentations (20 mins per group)
 
-- 15:20-16:20 — Cohort Stop Go Continue (retrospective)
+- 14:30 - 15:30 Cohort Stop Go Continue (retrospective)
 
-- 16:20-17:00 — Team retrospectives
-
-- 17:00-18:00 — External Speaker or Alumni Project Presentation
