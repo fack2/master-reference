@@ -21,6 +21,6 @@
 
 ## Make a request from the server
 
-1. Research what npm modules are available to make a request from a node server to another server (equivalent of XMLHttpRequest for the server).
+1. Research what npm modules are available to make a request from a node server to another server (equivalent of fetch request for the server).
 2. Using a module of your choice, create a node server which makes a request to an online API (it's up to you what one you'd like to use, I'd recommend either [Unsplash.it](https://unsplash.it/), [Guardian](http://open-platform.theguardian.com/), [Tesco](https://devportal.tescolabs.com/), or [Recipe Puppy](http://www.recipepuppy.com/)), then serve the response when a client requests the home ('/') route of your server.
 3. (Bonus), when the server receives the API response, instead of serving the response at the home route, make another GET request to a different API, then combine that response with the original response and serve it to the home route.
