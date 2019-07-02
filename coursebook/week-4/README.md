@@ -17,7 +17,10 @@
 
 - 11:30 - 12:30
   -- First three steps of [Node Girls workshop](https://github.com/jema28/node-workshop) (Day 1 of 2)
-  - 13:30 - 15:30
+
+  — LUNCH —
+
+- 13:30 - 15:30
     --  4-10 steps of [Node Girls workshop](https://github.com/jema28/node-workshop) (Day 1 of 2)
 - 15:30 - 16:30
   -- Typing
