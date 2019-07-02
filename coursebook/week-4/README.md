@@ -80,4 +80,4 @@
 
 - 13:30 - 14:30 — Presentations (20 mins per group)
 
-- 14:30 - 15:20 — Cohort Stop Go Continue (retrospective)
+- 14:30 - 15:30 — Cohort Stop Go Continue (retrospective)
