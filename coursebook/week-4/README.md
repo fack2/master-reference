@@ -76,7 +76,7 @@
 - 9:30 - 11.30
   -- Respond to issues
 
-  - 11:30 - 12.30
+- 11:30 - 12.30
     -- Plan presentations
 
 -- LUNCH --
