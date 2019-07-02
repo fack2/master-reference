@@ -11,72 +11,73 @@
 
 ### Day 1
 
-- 10:00 - 13:00
+- 8:30 - 11:30
   -- Intro to servers and Node.js
   & [Node Intro Workshop](https://github.com/fack2/Node-Intro-Workshop)
 
-- 14:00 - 16:00
-  -- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 1 of 2)
-- 16:00 - 18:00
-  -- Business development
+- 11:30 - 12:30
+  -- First three steps of [Node Girls workshop](https://github.com/jema28/node-workshop) (Day 1 of 2)
+  - 13:30 - 15:30
+    --  4-10 steps of [Node Girls workshop](https://github.com/jema28/node-workshop) (Day 1 of 2)
+- 15:30 - 16:30
+  -- Typing
 
 ### Day 2
 
-- 10:00 - 11:30
+- 8:30 - 10:00
   -- [ES6 morning challenge](./morning-challenge-day-2.md)
 
-- 11:30 - 13:00
+- 10:00 - 12:00
   -- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 2 of 2)
+
+  - 12:00 - 12:30
+    -- [Introduce Project](./project.md)
 
 — LUNCH —
 
-- 14:00 - 14:30
-  -- [Introduce Project](./project.md)
-
-- 14:30 - 14:45
+- 13:30 - 13:45
   -- Intro to research topics for research afternoon
 
-- 14.45 - 17:00
+- 13.45 - 15:30
   -- [Research Afternoon](./research-afternoon.md)
 
-- 17.00 - 18:00
+- 15.30 - 16:30
   -- Review and Present research topics
 
 ### Day 3
 
-- 10:00 - 11:00
+- 8:30 - 9:30
   -- [Modularisation morning challenge](./morning-challenge-day-3.md)
 
-- 11:00 - 13:00
-  -- Start project
+- 9:30 - 10:30
+  -- Project planning
+
+  - 10:30 - 12:30
+    -- Projects
 
 -- LUNCH --
 
-- 14:00 - 17:00
+- 13:00 - 16:30
   -- Projects
-
-- 17:00 - 18:00
-  -- External speaker
 
 ### Day 4
 
-- 10:00 - 18:00
+- 8:30 - 16:30
   -- Projects
 
 ### Day 5
 
-- 10:00 - 11:00
+- 8:30 - 9:30
   -- Code Review
 
-- 11:00 - 13:00
-  -- Respond to issues and plan presentations
+- 9:30 - 11.30
+  -- Respond to issues
+
+  - 11:30 - 12.30
+    -- Plan presentations
 
 -- LUNCH --
 
-- 14:00-15:20 — Presentations (20 mins per group)
+- 13:30 - 14:30 — Presentations (20 mins per group)
 
-- 15:20-16:20 — Cohort Stop Go Continue (retrospective)
-
-- 16:20-17:00 — Team retrospectives
-
-- 17:00-18:00 — External Speaker or Alumni Project Presentation
+- 14:30 - 15:20 — Cohort Stop Go Continue (retrospective)
