@@ -28,7 +28,7 @@
 ### Day 2
 
 - 8:30 - 10:00
-  -- [ES6 morning challenge](./morning-challenge-day-2.md)
+  -- [ES6 morning challenge](https://github.com/fack2/ES6-workshop)
 
 - 10:00 - 12:00
   -- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 2 of 2)
