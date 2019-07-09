@@ -41,7 +41,7 @@
 
 - 08:30 - 09:30 - [Node shell workshop - P1](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 
-- 09:30 - 09:45 - [Introduction to linters](./linter.md)
+- 09:30 - 09:45 - [Introduction to linters](./linting.md)
 
 - 09:45 - 12:30 - Projects (planning)
 
