@@ -15,7 +15,7 @@
 
 — LUNCH —
 
-- 13:30 - 16:30 - [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop)
+- 13:30 - 16:30 - [Workshop on error handling](https://github.com/jema28/error-handling-workshop)
 
 
 ### Day 2
