@@ -22,13 +22,13 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 ### Day 2
 
-08:30 - 10:00: [pg module code along](https://github.com/foundersandcoders/pg-walkthrough)
+08:30 - 10:00: [pg module code along](https://github.com/jema28/pg-walkthrough)
 
-10:00 - 12:30: [Workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop)
+10:00 - 12:30: [Workshop on making small node app with a database connection](https://github.com/jema28/pg-workshop)
 
 12:30 - 13:30: -- LUNCH --
 
-13:30 - 14:30:[Database Testing](https://github.com/shahenazmonia/ws-database-testing)
+13:30 - 14:30: [Database Testing](https://github.com/shahenazmonia/ws-database-testing)
 
 14:30 - 16:00: [Introduce Project](./project.md)
 
@@ -58,6 +58,6 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 12:30 - 13:30: --LUNCH--
 
-13:30- 14:30: - Whiteboarding review
+13:30- 14:30: Whiteboarding review
 
 14:30 - 15:30: SGC
