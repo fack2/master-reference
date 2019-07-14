@@ -11,7 +11,7 @@
 
 ### Day 1
 
-10am - 11am: whiteboard walkthrough with introduction to the topic of relational databases and SQL
+10am - 11am: whiteboard walkthrough and [presentation](https://github.com/fack2/master-reference/blob/master/coursebook/week-6/database%20presentation.pptx) with introduction to the topic of relational databases and SQL
 
 11am - 1pm: [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
 , those who finish installing can help others with installation problems.
