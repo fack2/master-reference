@@ -42,11 +42,15 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 ### Day 4
 
-Projects
+08:30 - 12:30: Projects
+
+12:30 - 13:30: -- LUNCH --
+
+13:30 - 16:30 Projects
 
 ### Day 5
 
-08:30 - 09:30: code reviews
+08:30 - 09:30: Code reviews
 
 09:30 - 11:30: Responding to issues and preparing presentations
 
