@@ -18,7 +18,7 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 12:30 - 13:30: -- LUNCH --
 
-13:30 - 16:30: [Workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop).
+13:30 - 16:30: [Workshop on SQL commands and psql](https://github.com/fack2/postgres-workshop).
 
 ### Day 2
 
