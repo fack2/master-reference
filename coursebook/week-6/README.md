@@ -18,13 +18,15 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 12:30 - 13:30: -- LUNCH --
 
-13:30 - 16:30: [Workshop on SQL commands and psql](https://github.com/fack2/postgres-workshop).
+13:30 - 15:30: [Workshop on SQL commands and psql](https://github.com/fack2/postgres-workshop).
+
+15:30 - 16:30: [Typing](https://www.typingclub.com)
 
 ### Day 2
 
-08:30 - 10:00: [pg module code along](https://github.com/jema28/pg-walkthrough)
+08:30 - 10:30: [pg module code along](https://github.com/jema28/pg-walkthrough)
 
-10:00 - 12:30: [Workshop on making small node app with a database connection](https://github.com/jema28/pg-workshop)
+10:30 - 12:30: [Workshop on making small node app with a database connection](https://github.com/jema28/pg-workshop)
 
 12:30 - 13:30: -- LUNCH --
 
