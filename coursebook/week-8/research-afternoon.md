@@ -13,7 +13,8 @@ how do you use them ([several useful examples](https://blog.jscrambler.com/setti
 
 ## Serverside rendering
 - What is server-side rendering?
+- What is client-side rendering?
 - What are the pros and cons of serverside rendering vs clientside
-- What are the specific benefits of using express?
+
 
 
