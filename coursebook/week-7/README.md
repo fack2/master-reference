@@ -11,66 +11,62 @@
 
 ### Day 1
 
-- 10:00 - 10:15 - Introduction to [learning outcomes](./learning-outcomes.md)
+- 8:30 - 9:30 - Presentation on [password management](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p15)
 
-- 10:15 - 11:00 - Presentation on [password management](https://drive.google.com/file/d/0BxXF_LZcFnS5ODM0dElWYmtmMWc/view)
+- 9:30 - 11:30 - Workshop on [password management](https://github.com/foundersandcoders/ws-password-management)
 
-- 11:00 - 13:00 - Workshop on [password management](https://github.com/foundersandcoders/ws-password-management)
+- 11:30 - 12:30 - Typing
 
 — LUNCH —
 
-- 14:00 - 16:00 - Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies)
+- 13:30 - 15:30 - Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies)
 
-- 16:00 - 18:00 - Business development
+- 15:30 - 16:30 - [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
 ### Day 2
 
-- 10:00-11:00 - Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
+- 8:30 - 10:00 - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
-- 11:00-13:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
+- 10:00 - 12:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
+
+- 12:00 - 12:30 - [Introduce project](./project.md)
 
 — LUNCH —
 
-- 14:00 - 14:30 - [Introduce project](./project.md)
+- 13:30 - 13:45 - Introduce [research topics](./research-afternoon.md)
 
-- 14:30 - 14:45 - Introduce [research topics](./research-afternoon.md)
+- 13:45 - 15:30 - Research afternoon
 
-- 14.45 - 17:00 - [Research afternoon](./research-afternoon.md)
-
-- 17.00 - 18:00 - Review and Present research topics
+- 15:30 - 16:30 - Review and Present research topics
 
 ### Day 3
 
-- 10:00 - 11:00 - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- 8:30 - 9:30 - Morning challenge on [Flex-Box layout](https://github.com/m4v15/css-layout)
 
-- 11:00 - 13:00 - Projects (planning)
+- 9:30 - 10:30 - Projects (planning)
+
+- 10:30 - 12:30 - Projects
 
 — LUNCH —
 
-- 14:00 - 17:00 - Projects
-
-- 17:00 - 18:00 - External speaker or alumni project presentation
+- 13:30 - 16:30 - Projects
 
 ### Day 4
 
-- 10:00 - 13:00 - Projects
+- 8:30 - 12:30 - Projects
 
 — LUNCH —
 
-- 14:00 - 18:00 - Projects
+- 13:00 - 16:30 - Projects
 
 ### Day 5
 
-- 10:00 - 11:00 - Code review
+- 8:30 - 9:30 - Code review
 
-- 11:00 - 13:00 - Respond to issues and plan presentations
+- 9:30 - 12:30 - Respond to issues and plan presentations
 
 — LUNCH —
 
-- 14:00-15:20 — Presentations (20 mins per group)
+- 13:30-14:30 — Presentations
 
-- 15:20-16:20 — Cohort Stop Go Continue (retrospective)
-
-- 16:20-17:00 — Team retrospectives
-
-- 17:00-18:00 — External Speaker or Alumni Project Presentation
+- 14:30-15:30 — Cohort Stop Go Continue (retrospective)
