@@ -13,7 +13,7 @@
 
 - 8:30 - 9:30 - Presentation on [password management](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p15)
 
-- 9:30 - 11:30 - Workshop on [password management](https://github.com/foundersandcoders/ws-password-management)
+- 9:30 - 11:30 - Workshop on [password management](https://github.com/m4v15/ws-password-hashing)
 
 - 11:30 - 12:30 - Typing
 
