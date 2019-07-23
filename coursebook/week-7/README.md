@@ -15,13 +15,13 @@
 
 - 9:30 - 11:30 - Workshop on [password management](https://github.com/m4v15/ws-password-hashing)
 
-- 11:30 - 12:30 - Typing
+- 11:30 - 12:30 - [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
 — LUNCH —
 
-- 13:30 - 15:30 - Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies)
+- 13:30 - 15:30 - Workshop on [cookies](https://github.com/shahenazmonia/ws-cookies)
 
-- 15:30 - 16:30 - [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
+- 15:30 - 16:30 - Typing
 
 ### Day 2
 
