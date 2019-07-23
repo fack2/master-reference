@@ -25,7 +25,7 @@
 
 ### Day 2
 
-- 8:30 - 10:00 - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- 8:30 - 10:00 - Morning challenge on [Promises](https://github.com/fack2/mc-promise-me-this/blob/master/README.md)
 
 - 10:00 - 12:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
 
