@@ -18,7 +18,7 @@ The only limits are that your project must fulfill the requirements below.
 + [ ] Test front-end logic, we don't expect tests on the DOM.
 
 #### Possible stretch goals
-+ [ ] Client-side _and_ server-side validation on login form, including error handling that provides feedback to users
++ [ ] Client-side validation on login form, including error handling that provides feedback to users
 + [ ] Add roles and permissions - Have an "admin" level user (role) who can edit and delete all content :scream: (permissions)
 + [ ] Add comment functionality to content
 + [ ] Add like functionality to content
