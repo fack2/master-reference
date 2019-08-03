@@ -14,7 +14,7 @@
 
 8:30-9:00 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
 
-9:00 - 11:45 - Workshop 1 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop)
+9:00 - 11:45 - Workshop 1 - [Express-Workshop](https://github.com/fack2/express-workshop)
 
 11:45 - 12:30 - typing
 
