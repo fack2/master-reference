@@ -29,7 +29,11 @@
 8:30 - 9:30 - Morning Challenge - [Create an Animated App
 Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 
-9:30 - 11:30 - Workshop 3 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop)
+9:30 - 11:30 - Workshop 3 - [Handlebars]
+    - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
+    - [Templating](https://github.com/m4v15/templating/)
+    - [Handlebars](https://github.com/m4v15/country-express)
+
 11:30 - 12:15 - Whiteboard Walkthrough + [Introduce Project](./project.md)
 
 12:15 - 12:30 - Intro to research topics for research afternoon
