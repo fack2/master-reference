@@ -20,7 +20,7 @@
 
 --LUNCH--
 
-13:30 - 15:30 - Workshop 2 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
+13:30 - 15:30 - Workshop 2 - [Creating and Testing Express Routes](https://github.com/jema28/express-and-testing-workshop)
 
 15:30 - 16:30 - [server side validation](https://github.com/shahenazmonia/server-side-validation)
 
